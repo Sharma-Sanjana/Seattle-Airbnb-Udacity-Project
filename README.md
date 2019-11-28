@@ -25,3 +25,8 @@ Matplotlib
 ## Data resource:
 
 Data sourced from kaggle : https://www.kaggle.com/airbnb/seattle/data
+
+## References:
+
+Correlation: https://medium.com/@sebastiannorena/finding-correlation-between-many-variables-multidimensional-dataset-with-python-5deb3f39ffb3
+
